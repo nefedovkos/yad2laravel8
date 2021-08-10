@@ -1,0 +1,49 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    color: #363636;
+}
+
+/* MAIN MENU */
+
+.main-menu{
+    height: 70px;
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.main-menu .menu{
+    /* padding: 20px;*/
+}
+button{
+    cursor: pointer;
+}
+#left-main-menu{
+    margin-left: 20px;
+}
+button .button_text,
+button .button_icon{
+    font-size: 16px;
+}
+.menu-ul{
+    padding: 0 !important;
+}
+.main-left-menu-button-green{
+    height: 40px;
+    width: 193px;
+    border-radius: 20px;
+    background-color: #0fca80;
+    line-height: 13px;
+    font-weight: 500;
+    color: white;
+}
+.main-left-menu-button-green span{
+    margin-bottom: 10px;
+}
+.main-menu-selected{
+    background-color: #eeeeee;
+}
+#burger-main-menu,
+#burger-main-menu-short{
+    display: none;
+}

@@ -1,0 +1,10 @@
+@media (max-width: 1370px){
+    #btn1, #btn2, #btn3{
+        display: none;
+    }
+}
+@media (max-width: 1230px){
+    #btn-submenu-1230{
+        display: none;
+    }
+}

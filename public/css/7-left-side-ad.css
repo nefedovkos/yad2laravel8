@@ -1,0 +1,15 @@
+/*LEFT SIDES, CAN ADD SOME AD TO MAKE BEAUTIFUL*/
+.left-test{
+    width: 100%;
+    height: 150px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #27ca80;
+    border-radius: 6px;
+    background-image: url(//assets.yad2.co.il/yad2site/y2assets/images/pages/feed/left_panel/new_map_bg.png);
+}
+.inner-left-side-container{
+    width: 250px;
+    max-height: 1600px;
+}
+/*END LEFT SIDES, CAN ADD SOME AD TO MAKE BEAUTIFUL*/
