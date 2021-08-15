@@ -1,6 +1,8 @@
 <!doctype html>
 <html dir="rtl" lang="il">
+<head>
 @extends('layouts.index.header')
+</head>
 <body>
 <div class="container-fluid" style="height: 5px; background-color: #ff7100;"></div>
 @include('layouts.index.main-menu')

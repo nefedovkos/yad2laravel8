@@ -1,13 +1,12 @@
-@import url("1-main-menu.css");
-@import url("2-sub-menu.css");
-@import url("3-search-bar.css");
-@import url("4-search-columns.css");
-@import url("5-advanced-search.css");
-@import url("6-opened-apartments.css");
-@import url("7-left-side-ad.css");
-@import url("8-ad-image-b4-footer.css");
-@import url("9-footer.css");
-@import url("all-media.css");
+@import url("index/2-sub-menu.css");
+@import url("index/3-search-bar.css");
+@import url("index/4-search-columns.css");
+@import url("index/5-advanced-search.css");
+@import url("index/6-opened-apartments.css");
+@import url("index/7-left-side-ad.css");
+@import url("index/8-ad-image-b4-footer.css");
+@import url("index/9-footer.css");
+@import url("index/all-media.css");
 
 
 

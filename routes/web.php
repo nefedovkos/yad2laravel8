@@ -21,12 +21,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/i', function () {
     return view('index');
 });
+Route::get('/a', function () {
+    return view('add-apartment');
+});
 
-
+Route::post('/c', 'Apartment\CheckController@check')->name('check.apartment');
 
 
 Route::get('/', function () {
-    return view('add-apartment');
+    return view('check-parts');
 });
 
 

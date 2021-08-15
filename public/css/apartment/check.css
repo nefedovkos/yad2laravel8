@@ -1,0 +1,38 @@
+/*#part2-select-type{*/
+/*    background-color: red;*/
+/*}*/
+
+/*select option {*/
+/*    color: black;*/
+/*}*/
+
+select{
+    background-size: 16px 18px;
+    background-position: center;
+    /* background-color: #e8f0fe; */
+    cursor: auto;
+    height: 40px;
+    width: 100%;
+    text-align: right;
+    border: 1px solid #999999;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: Rubik,sans-serif;
+}
+select option:first-child {
+    color: grey;
+}
+select.part2-select-type {
+    color: black;
+}
+/* Hidden placeholder */
+select option[disabled]:first-child {
+    display: none;
+}
+.login-form input{
+
+}
